@@ -1,0 +1,194 @@
+{
+    "electronics": [
+        {
+            "name": "Sony WH-1000XM5 Noise-Canceling Headphones",
+            "price": 299,
+            "rating": 4.8,
+            "description": "Industry-leading noise cancellation with premium sound",
+            "trending": true
+        },
+        {
+            "name": "Apple iPad Air (M2)",
+            "price": 689,
+            "rating": 4.7,
+            "description": "Lightweight tablet perfect for reading, drawing and notes",
+            "trending": true
+        },
+        {
+            "name": "Logitech MX Master 3S",
+            "price": 99,
+            "rating": 4.9,
+            "description": "Ergonomic precision mouse ideal for coding and design work"
+        },
+        {
+            "name": "Samsung Galaxy Watch 6",
+            "price": 329,
+            "rating": 4.6,
+            "description": "Smart fitness tracking with AMOLED display"
+        }
+    ],
+
+    "fashion": [
+        {
+            "name": "Nike Air Max 270",
+            "price": 150,
+            "rating": 4.7,
+            "description": "Comfortable running shoes with modern air cushioning",
+            "trending": true
+        },
+        {
+            "name": "Adidas Originals Hoodie",
+            "price": 70,
+            "rating": 4.5,
+            "description": "Soft cotton hoodie with premium fit"
+        },
+        {
+            "name": "Zara Oversized Denim Jacket",
+            "price": 60,
+            "rating": 4.4,
+            "description": "Stylish denim perfect for casual outfits"
+        },
+        {
+            "name": "Fossil Leather Watch",
+            "price": 110,
+            "rating": 4.6,
+            "description": "Classic analog watch with premium leather"
+        }
+    ],
+
+    "books": [
+        {
+            "name": "Atomic Habits — James Clear",
+            "price": 18,
+            "rating": 4.9,
+            "description": "Proven framework for building better habits",
+            "trending": true
+        },
+        {
+            "name": "Deep Work — Cal Newport",
+            "price": 15,
+            "rating": 4.8,
+            "description": "Guide for achieving focus in a distracted world"
+        },
+        {
+            "name": "The Psychology of Money — Morgan Housel",
+            "price": 20,
+            "rating": 4.9,
+            "description": "Timeless lessons on wealth and decision-making"
+        },
+        {
+            "name": "The Mountain Is You — Brianna Wiest",
+            "price": 17,
+            "rating": 4.7,
+            "description": "Self-transformation through mindset mastery"
+        }
+    ],
+
+    "gaming": [
+        {
+            "name": "PlayStation 5 DualSense Controller",
+            "price": 69,
+            "rating": 4.8,
+            "description": "Adaptive triggers + haptic feedback for immersive gaming"
+        },
+        {
+            "name": "Razer BlackWidow V4 Keyboard",
+            "price": 179,
+            "rating": 4.7,
+            "description": "Mechanical RGB keyboard for gamers and programmers"
+        },
+        {
+            "name": "HyperX Cloud III Headset",
+            "price": 129,
+            "rating": 4.6,
+            "description": "Ultra comfortable headset with crystal clear audio"
+        }
+    ],
+
+    "beauty": [
+        {
+            "name": "Laneige Water Sleeping Mask",
+            "price": 32,
+            "rating": 4.7,
+            "description": "Overnight hydration gel for glowing skin",
+            "trending": true
+        },
+        {
+            "name": "Maybelline Superstay Matte Lipstick",
+            "price": 10,
+            "rating": 4.5,
+            "description": "Long-lasting matte finish"
+        },
+        {
+            "name": "The Ordinary Niacinamide 10% Serum",
+            "price": 12,
+            "rating": 4.6,
+            "description": "Reduces acne marks and evens skin tone"
+        }
+    ],
+
+    "home_decor": [
+        {
+            "name": "LED Galaxy Projector Lamp",
+            "price": 45,
+            "rating": 4.8,
+            "description": "Turns any room into a relaxing starry atmosphere",
+            "trending": true
+        },
+        {
+            "name": "Minimal Wooden Wall Clock",
+            "price": 30,
+            "rating": 4.4,
+            "description": "Simple, elegant, Scandinavian-style home decor"
+        },
+        {
+            "name": "Aroma Diffuser with Essential Oils",
+            "price": 28,
+            "rating": 4.6,
+            "description": "Relaxing scents + color changing LED"
+        }
+    ],
+
+    "fitness": [
+        {
+            "name": "Neo Dumbbells (Pair)",
+                       "price": 25,
+            "rating": 4.5,
+            "description": "Perfect for home workouts"
+        },
+        {
+            "name": "Yoga Mat (Anti-Slip)",
+            "price": 20,
+            "rating": 4.7,
+            "description": "Thick and durable mat for exercise routines"
+        },
+        {
+            "name": "Fitbit Inspire 3",
+            "price": 99,
+            "rating": 4.6,
+            "description": "Tracks steps, sleep and heart rate"
+        }
+    ],
+
+    "kitchen": [
+        {
+            "name": "NutriBullet Blender",
+            "price": 89,
+            "rating": 4.8,
+            "description": "Smoothies, shakes, and sauces made easy",
+            "trending": true
+        },
+        {
+            "name": "Electric Kettle (Borosil Glass)",
+            "price": 35,
+            "rating": 4.6,
+            "description": "Fast boiling with LED indicator"
+        },
+        {
+            "name": "Non-stick Frying Pan",
+            "price": 15,
+            "rating": 4.4,
+            "description": "Perfect for everyday cooking"
+        }
+    ]
+}
